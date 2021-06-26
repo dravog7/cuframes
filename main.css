@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
+.container-maintext{
+    margin-top: 150px;
+    margin-left: 100px;
+    width: 540px;
+}
+.title-box{
+    margin-top: 24px;
+}
+.maintext{
+    font-size: 80px;
+    font-weight: bold;
+    letter-spacing: .4px;
+    line-height: 97px;
+}
+.subtext{
+    font-size: 56px;
+    color: #CECECE;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    letter-spacing: .4px;
+    line-height: 68px;
+}
+.parabox{
+    margin-top: 64px;
+    width: 542px;
+
+}
+
+.para{
+    font-size: 24px;
+    color: #333333;
+    font-weight: 300;
+}
+
+.buttonbox{
+    margin-top: 104px;
+
+}
+
+.primarybutton{
+  
+    background: #222222;
+    width: 250px;
+    height: 64px;
+    color: #ffffff;
+    border-radius: 16px;
+    border: 0px;
+
+}
+
+.primarybutton-text{
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+}
+.secondarybutton{
+ 
+    background: #EFEFEF;
+    width: 250px;
+    height: 64px;
+    border-radius: 16px;
+    border: 0px; 
+}
+
+.secondarybutton-text{
+    color: #343434;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center; 
+}
+
+
+.component-box{
+    margin-top: 64px;
+}
+
+.component-head{
+    font-size: 50px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    
+
+}
+
+.component-para{
+    color: #888888``;
+    font-size: 20px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+.component-box{
+    margin-top: 84px;
+}
+
+.footer-box{
+    margin-top: 40px;
+
+}
+.footerbox-left{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 100px;
+    color: #BBBBBB;
+    letter-spacing: .4px;
+}
+
+.footerbox-right{
+    padding-top: 32px;
+    padding-bottom: 60px;
+}
+
+.creatorname{
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    line-height: 24px;
+    margin-left: 12px;
+}
+
+.creatorhandle{
+    font-size: 15px;
+    font-weight: normal;
+    color: #A7A7A7;
+    line-height: 18px;
+    margin-left: 12px;
+
+}
+
+.seperator{
+    margin-top: 32px;
+    width: 720px;
+    background-image: linear-gradient(left , white 2%, #E6E6E6 20%, white 8%);
+   
+}
