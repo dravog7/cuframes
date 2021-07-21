@@ -34,13 +34,13 @@
     <a
       href="https://ko200.github.io/cuframes/"
       class="button bg-black text-white visited:text-white">
-      <img src="figma.png" alt="figma" />
+      <img src="./figma.png" alt="figma" />
       <span>Get it now</span>
     </a>
     <a
       href="https://www.buymeacoffee.com/vishnukoux"
       class="button bg-gray-200 text-black visited:text-black">
-      <img src="Coffee.png" alt="coffee" />
+      <img src="./Coffee.png" alt="coffee" />
       <span>Buy me a coffee</span>
     </a>
   </div>
