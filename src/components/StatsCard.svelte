@@ -1,15 +1,15 @@
 <script>
 </script>
 
-<div class="order-2 flex flex-col bg-black h-screen justify-around
+<div class="order-2 flex flex-col md:py-0 py-32 bg-black justify-around
             md:h-5/6 py-4 md:w-1/2">
     <div class="bg-cir-grad px-4 flex justify-center">
         <img class="h-v50" src="./coverImage.png" alt="cover"/>
     </div>
     <div class="flex flex-col justify-around md:flex-row">
-        <div class="stats"><h1>350+</h1><h3>COMPONENTS</h3></div>
-        <div class="stats"><h1>50+</h1><h3>ICONS</h3></div>
-        <div class="stats"><h1>200+</h1><h3>SCREENS</h3></div>
+    <div class="stats md:mt-0 mt-12"><h1>350+</h1><h3 class="text-xl mt-4" style="letter-spacing:5px" >COMPONENTS</h3></div>
+        <div class="stats md:mt-0 mt-9"><h1>50+</h1><h3 class="text-xl mt-4"style="letter-spacing:5px">ICONS</h3></div>
+        <div class="stats md:mt-0 mt-9"><h1>200+</h1><h3 class="text-xl mt-4" style="letter-spacing:5px">SCREENS</h3></div>
     </div>
 </div>
 
@@ -21,6 +21,6 @@
     @apply flex flex-col text-center;
 }
 .stats > h1 {
-    @apply font-black text-4xl bg-gradient-to-t bg-clip-text text-transparent from-black to-white;
+    @apply font-black md:text-6xl text-5xl bg-gradient-to-t bg-clip-text text-transparent from-black to-white;
 }
 </style>
