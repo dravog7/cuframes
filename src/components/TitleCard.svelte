@@ -14,7 +14,7 @@
   }
 </style>
 
-<div class="order-1 md:ml-16 flex flex-col pt-20 md:h-5/6
+<div class="order-1 md:ml-16 flex flex-col pt-20 pb-20 md:pb-2 md:h-5/6
             md:w-1/3 ">
   <div class="flex flex-col justify-around px-8" style="flex:2;">
     <div>
