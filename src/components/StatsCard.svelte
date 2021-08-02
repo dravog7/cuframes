@@ -21,6 +21,6 @@
     @apply flex flex-col text-center;
 }
 .stats > h1 {
-    @apply font-black md:text-6xl text-5xl bg-gradient-to-t bg-clip-text text-transparent from-black to-white;
+    @apply font-black md:text-6xl text-xl bg-gradient-to-t bg-clip-text text-transparent from-black to-white;
 }
 </style>

@@ -18,7 +18,7 @@
             md:w-1/3 ">
   <div class="flex flex-col justify-around px-8" style="flex:2;">
     <div>
-      <img class=" h-12 md:mt-14 md:h-14" src="Logo.png" alt="logo" />
+      <img class=" h-12 md:mt-4 md:h-14" src="Logo.png" alt="logo" />
     </div>
     <div class="md:mt-8">
       <h1 class="font-bold text-6xl md:text-7xl pt-4">cutframe</h1>
