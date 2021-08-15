@@ -24,8 +24,8 @@
       <h1 class="font-bold text-6xl md:text-7xl pt-4">cutframe</h1>
       <h2 class="font-bold text-gray-400  pt-2 text-4xl md:text-6xl">wireframe kit</h2>
       <p class="text-xl md:text-2xl  pt-8 md:pt-12 font-light text-gray-400 ">
-        An open source wireframe kit for designers which include 350+ components and
-        200+ available in both light and dark mode.
+        An open source wireframe kit for quick design and prototyping your idea. Which includes 250+ components , 200+ screens and 170+ icons exclusively for mobile devices available in both light and dark mode.
+
       </p>
     </div>
     
