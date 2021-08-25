@@ -24,7 +24,7 @@
       <h1 class="font-bold text-6xl md:text-7xl pt-4">cutframe</h1>
       <h2 class="font-bold text-gray-400  pt-2 text-4xl md:text-6xl">wireframe kit</h2>
       <p class="text-xl md:text-2xl  pt-8 md:pt-12 font-light text-gray-400 ">
-        An open source wireframe kit for quick design and prototyping your idea. Which includes 250+ components , 200+ screens and 170+ icons exclusively for mobile devices available in both light and dark mode.
+        cutframe is an open-source mobile wireframe kit for quick designing and prototyping your idea. this includes 250+ components, 200+ screens, and 170+ icons exclusively for mobile devices available in both light and dark mode.
 
       </p>
     </div>
@@ -36,7 +36,7 @@
       href="https://ko200.github.io/cuframes/"
       class="button bg-black mt-15 text-white visited:text-white">
       <img src="./figma.png" height="100px" alt="figma" />
-      <span class="text-xl">Get it now</span>
+      <span class="text-xl">get it now</span>
     </a>
     <div class="py-2 md:py-3">
 
@@ -45,7 +45,7 @@
       href="https://www.buymeacoffee.com/vishnukoux"
       class="button bg-gray-200 mt-19 md:pt-1 text-black visited:text-black">
       <img src="./Coffee.png" alt="coffee" />
-      <span class="text-xl">Buy me a coffee</span>
+      <span class="text-xl">buy me a coffee</span>
     </a>
   </div>
 </div>
