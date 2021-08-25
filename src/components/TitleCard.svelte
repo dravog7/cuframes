@@ -33,7 +33,7 @@
   <div class="md:mx-6 mx-3 mt-12  md:mt-24 md:pt-1   flex-1 
               md:flex-row md:content-center md:flex-initial">
     <a
-      href="https://ko200.github.io/cuframes/"
+      href="https://www.figma.com/community/file/1012211988785886249/Cutframe.in--(Wireframe-Kit)"
       class="button bg-black mt-15 text-white visited:text-white">
       <img src="./figma.png" height="100px" alt="figma" />
       <span class="text-xl">get it now</span>
